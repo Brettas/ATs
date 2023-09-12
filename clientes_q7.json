@@ -1,0 +1,84 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "primeiro_nome": "Bail",
+      "sobrenome": "O' Flaherty",
+      "email": "boflaherty0@wikimedia.org,boflaherty0@gmail.com",
+      "idade": 28,
+      "genero": "M"
+    },
+    {
+      "id": 2,
+      "primeiro_nome": "Waylon",
+      "sobrenome": "Gravenell",
+      "email": "wgravenell1@sbwire.com;wgravenell@gmail.com",
+      "idade": 31,
+      "genero": "M"
+    },
+    {
+      "id": 3,
+      "primeiro_nome": "Ardyce",
+      "sobrenome": "Ternent",
+      "email": "aternent2@alibaba.com;ATernent@GMAIL.COM",
+      "idade": 27,
+      "genero": null
+    },
+    {
+      "id": 4,
+      "primeiro_nome": "Lutero",
+      "sobrenome": "Vogel",
+      "email": "lvogel3@disqus.com,lvogel@gmail.com,LVOGEL@HOTMAIL.COM",
+      "idade": 30,
+      "genero": "M"
+    },
+    {
+      "id": 5,
+      "primeiro_nome": "Stanly",
+      "sobrenome": "Tooke",
+      "email": "stooke4@ocn.ne.jp",
+      "idade": 29,
+      "genero": "M"
+    },
+    {
+      "id": 6,
+      "primeiro_nome": "Kassandra",
+      "sobrenome": "Vizard",
+      "email": "kvizard5@ebay.co.uk;kvizard@gmail.com",
+      "idade": 37,
+      "genero": "F"
+    },
+    {
+      "id": 7,
+      "primeiro_nome": "Tabor",
+      "sobrenome": "Millsom",
+      "email": "tmillsom6@phpbb.com,tmillsom@gmail.com",
+      "idade": 39,
+      "genero": "M"
+    },
+    {
+      "id": 8,
+      "primeiro_nome": "Phillis",
+      "sobrenome": "Cardis",
+      "email": "pcardis7@so-net.ne.jp",
+      "idade": 19,
+      "genero": "F"
+    },
+    {
+      "id": 9,
+      "primeiro_nome": "Eldin",
+      "sobrenome": "Twitching",
+      "email": "etwitching8@noaa.gov",
+      "idade": 50,
+      "genero": "M"
+    },
+    {
+      "id": 10,
+      "primeiro_nome": "Sunny",
+      "sobrenome": "Furtado",
+      "email": "sfurtado9@skyrock.com",
+      "idade": 40,
+      "genero": "F"
+    }
+  ]
+}
